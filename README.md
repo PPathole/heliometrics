@@ -1,6 +1,6 @@
-# HelioCentrics 
+# HelioMetrics
 
-Welcome to HelioCentrics, a comprehensive analysis project for solar energy production. This project leverages Excel to perform detailed data analysis on solar power generation metrics.
+Welcome to HelioMetrics, a comprehensive analysis project for solar energy production. This project leverages Excel to perform detailed data analysis on solar power generation metrics.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Welcome to HelioCentrics, a comprehensive analysis project for solar energy prod
 
 ## Project Overview
 
-HelioCentrics aims to analyze and visualize solar energy production data to provide valuable insights into power generation trends, efficiency, and performance metrics. This project includes various Excel-based data analysis tasks that are relevant to the role of a Residential Energy Analyst at Tesla.
+HelioMetrics aims to analyze and visualize solar energy production data to provide valuable insights into power generation trends, efficiency, and performance metrics. This project includes various Excel-based data analysis tasks that are relevant to the role of a Residential Energy Analyst at Tesla.
 
 ## Dataset Description
 
@@ -110,4 +110,4 @@ Pranay Pathole
 
 ---
 
-Thank you for using HelioCentrics! We hope this project helps you gain valuable insights into solar energy production.
+Thank you for using HelioMetrics! We hope this project helps you gain valuable insights into solar energy production.
