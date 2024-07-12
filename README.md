@@ -106,7 +106,7 @@ For any questions or inquiries, please contact:
 
 Pranay Pathole
 - GitHub: [PPathole](https://github.com/PPathole)
-- Email: pranay@example.com
+- Email: ppathole@outlook.com
 
 ---
 
