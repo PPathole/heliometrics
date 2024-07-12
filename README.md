@@ -75,7 +75,7 @@ The dataset used in this project includes the following columns:
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/PPathole/Solar-Energy-Production-Analysis.git
+   git clone https://github.com/PPathole/heliocentrics.git
    ```
 2. Open the Excel file located in the cloned repository.
 
@@ -89,6 +89,8 @@ The dataset used in this project includes the following columns:
 ## Results
 
 The results of the analysis include visualizations, summary reports, and insights into the solar energy production data. These results can help in identifying trends, optimizing performance, and ensuring efficient energy production.
+
+![Solar Production Chart](https://github.com/PPathole/heliometrics/blob/main/Screenshot%202024-07-11%20at%2019.39.01.png)
 
 ## Contributing
 
